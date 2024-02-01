@@ -7,6 +7,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+button {
+  width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border: 1px solid yellow;
+    border-radius: 50%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
