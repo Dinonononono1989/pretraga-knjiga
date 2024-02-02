@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pretraga-knjiga/static/css/main.8c3cefb4.css",
+    "main.js": "/pretraga-knjiga/static/js/main.7c389871.js",
+    "static/js/787.d4aba7ab.chunk.js": "/pretraga-knjiga/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/pretraga-knjiga/index.html",
+    "main.8c3cefb4.css.map": "/pretraga-knjiga/static/css/main.8c3cefb4.css.map",
+    "main.7c389871.js.map": "/pretraga-knjiga/static/js/main.7c389871.js.map",
+    "787.d4aba7ab.chunk.js.map": "/pretraga-knjiga/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3cefb4.css",
+    "static/js/main.7c389871.js"
+  ]
+}
