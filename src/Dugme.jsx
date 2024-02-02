@@ -27,7 +27,7 @@ export default function Dugme() {
       <button
         onTouchStart={startListening}
         onMouseDown={startListening}
-        onTouchEnd ={command}
+        onTouchEnd={command}
         onMouseUp={command}
       >Држи дугме и причај!</button>
     </div>
